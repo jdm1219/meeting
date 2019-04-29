@@ -24,4 +24,4 @@ node + express 사용?
 ## 프론트엔드 신입이 가져야할 기술?
 javascript 어디까지?
 react? vue? node? express?
-알고리즘?
+알고리즘? or 다른언어 or 컴퓨터 
